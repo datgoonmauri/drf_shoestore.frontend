@@ -1,5 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+## connected to Django api:
+## Shoestore Backend 
+https://github.com/datgoonmauri/shoestore.git
 ## Available Scripts
 
 In the project directory, you can run:
